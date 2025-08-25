@@ -1,0 +1,6 @@
+[submodule "blog-project-starter-backend"]
+	path = blog-project-starter-backend
+	url = https://github.com/Sivasangari-Muniyappan/blog_.git
+[submodule "blog-project-starter"]
+	path = blog-project-starter
+	url = https://github.com/Sivasangari-Muniyappan/blog_.git
